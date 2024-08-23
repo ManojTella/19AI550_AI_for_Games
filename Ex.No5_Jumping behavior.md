@@ -91,7 +91,7 @@ while True:
     clock.tick(30)
 ```
 ### Output:
-![img1](https://github.com/user-attachments/assets/51d64c95-cca2-4f77-aa25-238d0ffffae3)
+![Screenshot 2024-08-23 143316](https://github.com/user-attachments/assets/a60196cb-dba0-45bf-b23b-43e5afd0dea2)
 ![Screenshot 2024-08-23 143142](https://github.com/user-attachments/assets/ad95d678-3882-4931-b643-086141d2ee5a)
 
 ### Result:
