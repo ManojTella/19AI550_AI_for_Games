@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/12e5f9f8-bd6b-4f44-b80f-fb3952856684)# Ex.No: 2 Implementation of Stack Plate game using Queue 
+# Ex.No: 2 Implementation of Stack Plate game using Queue 
 ### DATE: 14/08/2024                                                                       
 ### REGISTER NUMBER : 212221240026.
 ### AIM: 
