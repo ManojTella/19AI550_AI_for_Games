@@ -4,16 +4,26 @@
 ### AIM: 
 To write a Python program to simulate the game using Pygame and AI-based obstacle avoidance.
 ### Algorithm:
-#### Step 1: Set up Pygame to create the game window and handle game events.
-#### Step 2: Define screen dimensions, player size, and colors, avoiding blue colors for obstacles to contrast with a sky-blue background.
-#### Step 3: Load and scale a background image for a visually engaging environment.
-#### Step 4: Set initial positions and speeds for the player and falling obstacles.
-#### Step 5: Define a function to generate obstacles at random horizontal positions with colors that contrast against the background.
-#### Step 6: Capture keyboard inputs to allow the player to move left and right on the screen.
-#### Step 7: Check if any obstacles collide with the player. If a collision occurs, end the game.
-#### Step 8: Increase the score for each obstacle successfully avoided. Gradually increase obstacle speed as the score rises.
-#### Step 9: Render the current score on the screen.
-#### Step 10: When the game ends, display the final score for a brief period before closing.
+#### Step 1: 
+Set up Pygame to create the game window and handle game events.
+#### Step 2: 
+Define screen dimensions, player size, and colors, avoiding blue colors for obstacles to contrast with a sky-blue background.
+#### Step 3: 
+Load and scale a background image for a visually engaging environment.
+#### Step 4: 
+Set initial positions and speeds for the player and falling obstacles.
+#### Step 5: 
+Define a function to generate obstacles at random horizontal positions with colors that contrast against the background.
+#### Step 6: 
+Capture keyboard inputs to allow the player to move left and right on the screen.
+#### Step 7: 
+Check if any obstacles collide with the player. If a collision occurs, end the game.
+#### Step 8: 
+Increase the score for each obstacle successfully avoided. Gradually increase obstacle speed as the score rises.
+#### Step 9: 
+Render the current score on the screen.
+#### Step 10: 
+When the game ends, display the final score for a brief period before closing.
 
 ### Program:
 ```
