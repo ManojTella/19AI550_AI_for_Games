@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/18a48033-1681-4b44-880c-4a295e60103b)# Ex.No: 7 Implementation of Decision Tree Learning 
+# Ex.No: 7 Implementation of Decision Tree Learning 
 ## DATE:
 ## REGISTER NUMBER : 212221240026.
 # AIM:
