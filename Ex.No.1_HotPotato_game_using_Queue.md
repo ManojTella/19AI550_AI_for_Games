@@ -1,8 +1,10 @@
 # Ex.No: 1  Implementation of HotPotato game using Queue 
 ### DATE: 14/08/2024.                                                                           
 ### REGISTER NUMBER : 212221240026.
+
 ### AIM: 
 To write a python program to simulate the process of passing an item among players and eliminating players based on the given rules until a single winner is determined.
+
 ### Algorithm:
 1. Initialize the Queue: Create a queue and enqueue all the participants.
 2. Pass the Potato: Dequeue the first person in the queue and enqueue them at the end. This simulates passing the potato.
@@ -76,6 +78,7 @@ while running:
         if timer >= pass_interval:
             timer = 0
             current_index = (current_index + 1) % len(players)
+
         draw_players()
 
         # Highlight the player with the potato
@@ -95,11 +98,15 @@ while running:
     pygame.display.flip()
     clock.tick(FPS)
 
+
 pygame.quit()
 sys.exit()
+
 ```
+
 ### Output:
 ![Screenshot 2024-10-18 212550](https://github.com/user-attachments/assets/5c535cdc-83ee-486d-bf49-13d9d312f757)
+
 ![Screenshot 2024-10-18 212615](https://github.com/user-attachments/assets/3ae2e216-6c9c-4b42-a4b9-75a19e44ba52)
 ### Result:
 Thus the simple HotPotato game was implemented using Queue.
