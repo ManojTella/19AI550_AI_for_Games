@@ -76,7 +76,6 @@ while running:
         if timer >= pass_interval:
             timer = 0
             current_index = (current_index + 1) % len(players)
-
         draw_players()
 
         # Highlight the player with the potato
@@ -102,8 +101,6 @@ sys.exit()
 ### Output:
 ![Screenshot 2024-10-18 212550](https://github.com/user-attachments/assets/5c535cdc-83ee-486d-bf49-13d9d312f757)
 ![Screenshot 2024-10-18 212615](https://github.com/user-attachments/assets/3ae2e216-6c9c-4b42-a4b9-75a19e44ba52)
-
-
 ### Result:
 Thus the simple HotPotato game was implemented using Queue.
 
